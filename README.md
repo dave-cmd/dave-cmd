@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelliogence, Data Analytics and Python
 - 🌱 I’m currently learning C and and working on various web applications
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me devphase254@gmail.com
+- 📫 How to reach me kanjurus8@gmail.com, devphase254@gmail.com
 
 <!---
 dave-cmd/dave-cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

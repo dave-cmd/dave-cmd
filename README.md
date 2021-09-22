@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dave-cmd
+- 👋 Hi, I’m Kanjuru Wahome
 - 👀 I’m interested in Machine Learning, Data Analytics and Python
 - 🌱 I’m currently learning C and and working on various web applications
 - 💞️ I’m looking to collaborate on ...

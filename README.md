@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kanjuru Wahome
-- 👀 I’m interested in Machine Learning, Data Analytics and Python
-- 🌱 I’m currently learning C and and working on various web applications
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Kanjuru Wahome [Software Engineer/Automation Engineer]
+- 👀 I’m interested in Fullstack Development, Automation & DevOps
+- 🌱 My technology stack [React, JavaScript, Flask, Python, Selenium, Katalon Studio, Jenkins, Docker]
+- 💞️ I’m looking to collaborate on Fullstack/Frontend Development & Automation
 - 📫 How to reach me kanjurus8@gmail.com, devphase254@gmail.com
 
 <!---
